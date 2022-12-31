@@ -14,12 +14,10 @@ banner: https://picsum.photos/id/857/1000/400
 # Defines options shown in the header navigation menu
 ######################################################
 nav:
-- label: View page source
-  icon: fas fa-envelope
-  action: view-markdown
-- label: View page source
+- label: My new essay
   icon: fas fa-file-code
-  action: view-markdown
+  action: load-page
+  path: /sample-essay
 
 # If a contact-us action is defined for the nav menu a contact form will be enabled
 # The following information is used in the display and processing of the contact form.
