@@ -16,7 +16,7 @@ banner: https://picsum.photos/id/857/1000/400
 nav:
 - label: My new essay
   icon: fas fa-file-code
-  action: load-page-
+  action: load-page
 - label: My new essay
   icon: fas fa-file-code
   action: load-page
