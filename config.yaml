@@ -1,0 +1,29 @@
+title: My new site
+tagline: Starting Point
+# description: Juncture - An easy-to-use framework for building interactive visual essays and websites.
+banner: https://picsum.photos/id/857/1000/400
+#favicon: <favicon url>
+#logo: <logo url>
+
+# When using a custom domain these fields must be updated to match
+# the Github account and repository name
+#acct: <GitHub account/username>
+#repo: <GitHub repository>
+
+######################################################
+# Defines options shown in the header navigation menu
+######################################################
+nav:
+- label: View page source
+  icon: fas fa-envelope
+  action: view-markdown
+- label: View page source
+  icon: fas fa-file-code
+  action: view-markdown
+
+# If a contact-us action is defined for the nav menu a contact form will be enabled
+# The following information is used in the display and processing of the contact form.
+contactForm:
+  to:
+  - Andreas at ao_contact@icloud.com 
+  subject: contact
